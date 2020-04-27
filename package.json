@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Utility to rename images to remove dashes and spaces. Replacing both with underscores for easier usage in github markdown images.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "jest"
   },
